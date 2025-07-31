@@ -7,13 +7,13 @@
 - **Language & Tools**: Java, JavaFX, IntelliJ IDEA, GitHub  
 - **Team Members**:
   
-  | Team Member Name           | Student ID       |
-  |---------------------------|------------------|
-  | Warinphorn Trakunsombud   | 5400671          |
-  | Jisu Choi                 | [Insert ID here] |
-  | Nicole Wang               | [Insert ID here] |
-  | Wayne Sheng               | [Insert ID here] |
-  | Peidong Guo               | [Insert ID here] |
+  | Team Member Name           | Student ID        |
+  |---------------------------|-------------------|
+  | Warinphorn Trakunsombud   | [Insert ID here]  |
+  | Jisu Choi                 | [Insert ID here]  |
+  | Nicole Wang               | [Insert ID here]  |
+  | Wayne Sheng               | [Insert ID here]  |
+  | Peidong Guo               | [Insert ID here]  |
 
 
 ---
